@@ -1,7 +1,7 @@
 
 pipeline  {
     tools {
-        nodeJS 'NODEJS20.9.0'
+        nodejs 'NODEJS20.9.0'
         }
 
     agent {
